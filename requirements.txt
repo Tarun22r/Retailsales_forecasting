@@ -1,0 +1,14 @@
+streamlit
+prophet
+statsmodels
+pandas
+numpy
+matplotlib
+
+command to install libraries from requirements.txt:
+"pip install -r requirements.txt"
+
+to run app.py:
+"streamlit run app.py"
+
+after running test.py it will automaticallty create a file called "forecast_results.csv" with the results of the tests.
