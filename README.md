@@ -40,4 +40,3 @@ Modeling – Train models such as ARIMA, Prophet, or Random Forest Regressor.
 
 Evaluation – Measure accuracy using metrics like RMSE, MAE, and MAPE.
 
-Deployment (optional) – Package the model for real‑time forecasting.
