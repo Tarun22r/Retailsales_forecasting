@@ -10,6 +10,7 @@ warnings.filterwarnings('ignore')
 PROPHET_AVAILABLE = False
 try:
     from prophet import Prophet
+    
     PROPHET_AVAILABLE = True
 except ImportError:
     try:
