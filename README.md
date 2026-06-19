@@ -7,6 +7,7 @@ This project focuses on predicting future retail sales using machine learning te
 
 🎯 Objectives
 
+
 Analyze historical sales data.
 
 Identify seasonal trends and patterns.
