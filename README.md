@@ -2,6 +2,7 @@
  
 📌 Overview
 
+
 This project focuses on predicting future retail sales using machine learning techniques. Accurate forecasting helps businesses make better decisions about inventory, staffing, and promotions.
 
 
